@@ -1,0 +1,15 @@
+use termux set command 
+ type su
+ get magisk permission
+pkg update
+
+pkg upgrade
+
+pkg install git 
+git clone https://github.com/NoobHuMee/NoobAdmi
+
+cd NoobAdmi
+
+bash.noobAdmi
+
+done
